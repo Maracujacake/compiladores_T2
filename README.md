@@ -48,4 +48,4 @@ para clonar o repositório, basta ter o git instalado (``` https://git-scm.com/d
 ``` 
 (possível usar ssh e outros métodos que achar melhor)
 
-## <a href="https://docs.google.com/document/d/1nrkkAb3aJWtS2nYpo8nh5Piao0-aO4m55ABC8mVXCgU/edit?usp=sharing"> Mais informações (Documentação) </a>
+## <a href="https://docs.google.com/document/d/1fAQENZSwX_Yp4AUnylL-Ccj2LpDaGAhAGp70kiX1lQk/edit?usp=sharing"> Mais informações (Documentação) </a>
